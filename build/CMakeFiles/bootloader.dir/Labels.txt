@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/CMakeFiles/bootloader
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/CMakeFiles/bootloader.rule
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/CMakeFiles/bootloader-complete.rule
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/praful/Pictures/esp_workspace/dpp-enrollee/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
