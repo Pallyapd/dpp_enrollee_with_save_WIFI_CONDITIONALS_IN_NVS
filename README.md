@@ -66,4 +66,7 @@ I (7427) wifi:AP's beacon interval = 102400 us, DTIM period = 1
 I (11617) esp_netif_handlers: sta ip: 192.168.1.216, mask: 255.255.255.0, gw: 192.168.1.1
 I (11617) wifi dpp-enrollee: got ip:192.168.1.216
 I (11617) wifi dpp-enrollee: connected to ap SSID:DigitalFortress password:password
+*
+After that wifi credentials will save in Nvs.
+and after reboot it wil automatically get wifi credentials from nvs 
 ```
